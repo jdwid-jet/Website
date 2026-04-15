@@ -1,0 +1,33 @@
+body {
+    background-color: #1a1f2e;
+    font-family: "Lato", Arial, sans-serif;
+    font-size: 16px;
+    color: #e0e6f0;
+}
+
+h1, h2 {
+    font-family: "Montserrat", Arial, sans-serif;
+}
+
+a {
+    color: #00c896;
+}
+
+.box-dark {
+    background-color: #16213e;
+    border-left: 4px solid #00c896;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.box-mid {
+    background-color: #0f1923;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.box-accent {
+    background-color: #0a2a1e;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
